@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Bowie_Knife_v2
-  m_Shader: {fileID: 4800000, guid: b510423ce87abcd46be148671889bbcd, type: 3}
+  m_Shader: {fileID: 4800000, guid: 6de0f067f6458eb49933d22d683fd5b7, type: 3}
   m_ShaderKeywords: _NORMALMAP _SPECGLOSSMAP
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
